@@ -8,11 +8,11 @@
 
 You're sections headers will be used to reference location of destination.
 
-- [Description](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#description)
-- [How To Use](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#how-to-use)
-- [References](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#references)
-- [License](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#license)
-- [Author Info](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#author-info)
+- [Description](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md#description)
+- [How To Use](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md#how-to-use)
+- [References](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md#references)
+- [License](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md#license)
+- [Author Info](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md#author-info)
 
 ---
 
@@ -26,7 +26,7 @@ Started studying flutter, created a simple calculator app.
 - VS Code
 - Android Studio
 
-[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md)
 
 ---
 
@@ -42,13 +42,13 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 `dependencies:
   math_expressions: ^2.2.0`
 
-[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md)
 
 ---
 
 ## **References**
 
-[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md)
 
 ---
 
@@ -56,7 +56,7 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 
 No License
 
-[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md)
 
 ---
 
@@ -64,4 +64,4 @@ No License
 
 - Linkedin - [Jessica Lessa Barbosa](https://www.linkedin.com/in/jessica-lessa-barbosa/)
 
-[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/blob/master/README.md)
