@@ -2,6 +2,8 @@
 
 > This is a Simple Calculator project in Flutter.
 
+![Calculator](calculator.png)
+
 ---
 
 ### **Table of Contents**
