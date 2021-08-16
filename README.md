@@ -1,16 +1,67 @@
-# calculadora
+# **Simple Calculator**
 
-A new Flutter project.
+> This is a Simple Calculator project in Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### **Table of Contents**
 
-A few resources to get you started if this is your first Flutter project:
+You're sections headers will be used to reference location of destination.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Description](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#description)
+- [How To Use](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#how-to-use)
+- [References](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#references)
+- [License](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#license)
+- [Author Info](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md#author-info)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## **Description**
+
+Started studying flutter, created a simple calculator app.
+
+### **Technologies**
+
+- Flutter
+- VS Code
+- Android Studio
+
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
+
+---
+
+## **How To Use**
+
+### **Installation**
+
+
+### **API Reference**
+
+This will add a line like this to your package's pubspec.yaml (and run an implicit dart pub get):
+
+`dependencies:
+  math_expressions: ^2.2.0`
+
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
+
+---
+
+## **References**
+
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
+
+---
+
+## **License**
+
+No License
+
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
+
+---
+
+## **Author Info**
+
+- Linkedin - [Jessica Lessa Barbosa](https://www.linkedin.com/in/jessica-lessa-barbosa/)
+
+[Back To The Top](https://github.com/JessicaLBarbosa/Simple-Calculator/edit/master/README.md)
